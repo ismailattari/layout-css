@@ -1,0 +1,492 @@
+*
+
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.maen
+
+{
+    width: 100%;
+    height: 100px;
+     background-color: cadetblue;
+    
+    /* border: 1px solid; */
+}
+
+.logo
+{
+    width: 20%;
+    height: 50px;
+    background-color: aqua;
+    border: 1px solid;
+
+    }
+
+.banner
+{
+    width: 80%;
+    height: 50px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 0px;
+    right:0px;
+border: 1px solid;
+}
+
+.bar
+{
+    width: 100%;
+    height: 50px;
+    background-color: chocolate;
+    clear: both;
+    border: 1px solid;
+    
+
+}
+
+p,h3,h2
+{
+    
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+    color:white
+
+}
+
+.left-block
+{
+    width: 20%;
+    height: 500px;
+    background-color: chartreuse;
+    border: 1px solid;
+    position: absolute;
+    left: 0px;
+    top: 120px;
+    /* padding-top: 250px; */
+}
+
+.middl
+{
+    width: 60%;
+    height: 500px;
+    background-color: forestgreen;
+    position: absolute;
+    top: 120px;
+    left: 20%;
+    /* border: 1px solid; */
+}
+
+.top
+{
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid;
+    /* padding-top: 75px; */
+}
+
+.midl
+{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(173, 114, 104);
+    position: absolute;
+    top: 150px;
+    right: 50%;
+    /* padding-top: 100px; */
+border: 1px solid;
+}
+
+.secind
+{
+    width: 50%;
+    height: 200px;
+    background-color: tomato;
+    position: absolute;
+    top: 150px;
+    right: 0%;
+    /* padding-top: 100px; */
+    border: 1px solid;
+}
+
+.bottom
+{
+    width: 100%;
+    height: 150px;
+    background-color: burlywood;
+    position: absolute;
+    top: 351px;
+    right: 0%;
+    /* padding-top: 75px; */
+    
+    border: 1px solid;
+}
+.right
+{
+   width:20%;
+   height: 500px;
+   background-color: violet;
+   position: absolute;
+   right: 0px;
+   top: 120px;
+   /* padding-top: 250px; */
+   border: 1px solid;
+}
+
+.footer
+{
+    width: 100%;
+    height: 50px;
+    background-color: yellowgreen;
+    position: absolute;
+    bottom: 0px;
+    top: 650px;
+    
+}
+
+.hero
+{
+    width: 100%;
+    height: 600px;
+}
+
+h1
+{
+    background-color: aliceblue;
+    color: chocolate;
+    text-align: center;
+}
+
+/* Layout2 */
+
+.Layout2
+{
+    width: 90%;
+    height: 600px;
+    align-items: center;
+    margin-left: 5%;
+    border: 1px solid gray;
+}
+
+.header
+{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+}
+
+.blank
+{
+    width: 20%;
+    height: 500px;
+    border: 1px solid black;
+    
+}
+
+.four-div
+{
+    width: 60%;
+    height: 500px;
+
+    position: absolute;
+    right: 225px;
+    top: 827px;
+}
+
+.main-content
+{
+    width: 555px;
+    height: 300px;
+    background-color: green;
+    /* border: 1px solid white; */
+}
+
+.sidebox
+{
+    width: 249px;
+    height: 300px;
+    background-color: purple;
+    position: relative;
+    left: 450px;
+    top: -300px;
+    border: 1px solid white;
+}
+
+.twin1
+{
+    width: 350px;
+    height:200px;
+    background-color: orangered;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    border: 1px solid white;
+
+}
+
+.twin2
+{
+    width: 350px;
+    height:200px;
+    background-color:orangered;
+    position: absolute;
+    left: 350px;
+    bottom: 0px;
+    border: 1px solid white;                                                        
+}
+.blank2
+{
+    width: 20%;
+    height: 500px;
+    /* background-color: rgb(10, 192, 131); */
+    position: absolute;
+    top: 827px;
+    right: 64px;
+}
+
+.footer2
+{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    clear: both;
+}
+/* number-3 */
+.number-3
+{
+width: 90%;
+height: 600px;
+border: 3px solid wheat;
+margin-left: 5%;
+}
+
+.featured
+{
+    width: 100%;
+    height: 50px;
+}
+
+.Merchandising
+{
+    width: 35%;
+    height: 48px;
+    background-color: darkred;
+    border: 2px solid white;
+    
+}
+
+.Headerblack
+{
+    width: 785px;
+    height: 49px;
+    background-color: black;
+     border: 2px solid white;
+     position: absolute;
+     top: 1452px;
+     right: 65px;
+}
+
+.sidebar
+{
+    width: 20%;
+    height: 543px;
+    background-color: green;
+        border: 2px solid white;
+        
+}
+
+.Prodects
+{
+    width: 785px;
+    height: 490px;
+    /* background-color: aqua; */
+    position: absolute;
+    top:1506px;
+    right:240px ;
+    border: 2px solid white;
+}
+
+.Prod
+{
+    width: 783px;
+    height: 245px;
+    border: 2px solid white;
+    position: absolute;
+    top:-4px;
+    right:0px ;
+    background-color: blue;
+
+}
+
+.box1
+{
+    width: 150px;
+    height: 60px;
+    background-color: rgba(255, 0, 0, 0.349);
+    position: absolute;
+    top: 250px;
+
+    
+}
+
+.box2
+{
+    width: 150px;
+    height: 60px;
+    background-color: rgba(255, 0, 0, 0.349);
+    position: absolute;
+    top: 400px;
+    left: 150px;
+
+    
+}
+
+.box3
+{
+    width: 150px;
+    height: 60px;
+    background-color: rgba(255, 0, 0, 0.349);
+    position: absolute;
+    top: 250px;
+    left: 630px;
+
+    
+}
+
+.box4
+{
+    width: 150px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    top: 250px;
+    left: 0px;
+
+    
+}
+
+.box5
+{
+    width: 150px;
+    height: 60px;
+    background-color: rgba(255, 0, 0, 0.349);
+    position: absolute;
+    top: 440px;
+    right:0px;
+
+    
+}
+
+.box6
+{
+    width: 150px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right:0px;
+
+    
+}
+.feature2
+{
+    width: 174px;
+    height: 493px;
+    /* background-color: blueviolet; */
+    border: 2px solid white;
+    position: absolute;
+    top: 1504px;
+    right: 64px;
+
+}
+
+.yalo
+{
+    width: 958px;
+    height: 50px;
+    background-color: orange;
+    border: 2px solid white;
+    position: absolute;
+    top: 1996px;
+    right: 66px;
+
+}
+/* number-4 */
+.number-4
+{
+    width: 95%;
+    height: 700px;
+    border: 15px solid rgba(80, 181, 184, 0.87);
+    margin-left: 2.5%;
+}
+
+.der
+{
+    width: 100%;
+    height: 60px;
+    background-color: darkcyan;
+     border-bottom: 15px solid rgba(80, 181, 184, 0.87);
+}
+
+.Asi
+{
+    width: 30%;
+    height: 540px;
+    background-color: rgb(33, 131, 33); 
+    border: 15px solid rgba(80, 181, 184, 0.87);
+}
+
+.Art
+{
+    width: 850px;
+    height: 540px;
+    background-color:orange;
+    border: 15px solid rgba(80, 181, 184, 0.87);
+    position: absolute;
+    top: 2220px;
+    right: 15px; 
+}
+
+.image1
+{
+    width: 250px;
+    height: 250px;
+    background-color: gold;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    
+}
+
+.image2
+{
+    width: 250px;
+    height: 250px;
+    background-color: gold;
+    position: absolute;
+    bottom: 0px;
+    right: 300px;
+}
+
+.image3
+{
+    width: 250px;
+    height: 250px;
+    background-color: gold;
+    position: absolute;
+    bottom: 0px;
+    left: ;: 0px;
+}
+
+
+.ter
+{
+ width: 100%;
+    height: 60px;
+    background-color: darkcyan;
+     /* border-top: 15px solid rgba(80, 181, 184, 0.87);    */
+}
